@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeralaShivaKumar
-- 👀 I’m interested in wwrb development 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shivakumarterala@gmail.com
