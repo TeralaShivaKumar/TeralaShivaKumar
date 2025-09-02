@@ -88,9 +88,11 @@ HubSpot • Salesforce • Shopify • Stripe • Monday.com • Xero • Fortno
 ![Personal Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeralaShivaKumar&layout=compact&theme=radical)
 
 ### Work GitHub (Cloudify Solutions)
-![Work GitHub Stats](https://github-readme-stats.vercel.app/api?username=skr-cloudify&show_icons=true&theme=dark&count_private=true)
+![Work GitHub Stats](https://github-readme-stats.vercel.app/api?username=skr-cloudify&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Work Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skr-cloudify&layout=compact&theme=dark)
+**Note:** 1,292 contributions in private repositories at Cloudify Solutions (not visible in public stats)
+
+![Work Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skr-cloudify&layout=compact&theme=dark&count_private=true&include_all_commits=true)
 
 ---
 
